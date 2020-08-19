@@ -11,3 +11,4 @@ This is Dr. Ignaz Semmelweis, a Hungarian physician born in 1818 and active at t
 
 In this notebook, I have going to reanalyzed the data that made Semmelweis discover the importance of handwashing. Let's start by looking at the data that made Semmelweis realize that something was wrong with the procedures at Vienna General Hospital.
 
+https://github.com/likithaa/Statistical-proof-on-effective-handwashing/blob/master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/datasets/ignaz_semmelweis_1860.jpeg
