@@ -1,5 +1,4 @@
 # Load in the tidyverse package
-# .... YOUR CODE FOR TASK 1 ....
 library(tidyverse)
 
 # Read datasets/yearly_deaths_by_clinic.csv into yearly
